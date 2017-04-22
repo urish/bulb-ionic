@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@angular/common@^2.0.0":
-  version "2.4.10"
-  resolved "https://registry.yarnpkg.com/@angular/common/-/common-2.4.10.tgz#a3a682d2228fa30ec23dd0eb57c8e887fba26997"
+"@angular/common@~2.0.0":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-2.0.2.tgz#b4a28f7568a511f596dc2dd4e2551830642cd4f4"
 
 "@angular/compiler-cli@0.6.2":
   version "0.6.2"
@@ -15,33 +15,33 @@
     parse5 "1.3.2"
     reflect-metadata "^0.1.2"
 
-"@angular/compiler@^2.0.0":
-  version "2.4.10"
-  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-2.4.10.tgz#f51fd34820b2a02c7cb61fbcf49873c58056fb0c"
+"@angular/compiler@~2.0.0":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-2.0.2.tgz#4ca4e53956cd6a36b223ce12682ba0bc289326bb"
 
-"@angular/core@^2.0.0":
-  version "2.4.10"
-  resolved "https://registry.yarnpkg.com/@angular/core/-/core-2.4.10.tgz#0b8320a65065965d998645b1f5cd3cf769b441ea"
+"@angular/core@~2.0.0":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-2.0.2.tgz#f6ace071fecac27f9ac490cabfb17d6634aeee12"
 
-"@angular/forms@^2.0.0":
-  version "2.4.10"
-  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-2.4.10.tgz#062133aaade1f3b3c962f1593208c541b622fd06"
+"@angular/forms@~2.0.0":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-2.0.2.tgz#b762b8d86fa576147f6221482d90b3e94e8fe26c"
 
-"@angular/http@^2.0.0":
-  version "2.4.10"
-  resolved "https://registry.yarnpkg.com/@angular/http/-/http-2.4.10.tgz#ff6beade5b39c989ebf2393c49b34eebd43e9555"
+"@angular/http@~2.0.0":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@angular/http/-/http-2.0.2.tgz#c74b03125162f470b84e52c3a496b8fcda7085eb"
 
-"@angular/platform-browser-dynamic@^2.0.0":
-  version "2.4.10"
-  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-2.4.10.tgz#8df25dec2b06adc690cc9bc26448deccaebcd8ec"
+"@angular/platform-browser-dynamic@~2.0.0":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-2.0.2.tgz#089272c349f78850690f15c4c81f5089f7271e88"
 
-"@angular/platform-browser@^2.0.0":
-  version "2.4.10"
-  resolved "https://registry.yarnpkg.com/@angular/platform-browser/-/platform-browser-2.4.10.tgz#cbf25608148fb4ffef96cc5005ba5d7b3e093906"
+"@angular/platform-browser@~2.0.0":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@angular/platform-browser/-/platform-browser-2.0.2.tgz#25b754bfc426ee5a761b0b47fc677cd7d8ae41d2"
 
-"@angular/platform-server@^2.0.0":
-  version "2.4.10"
-  resolved "https://registry.yarnpkg.com/@angular/platform-server/-/platform-server-2.4.10.tgz#ede03075081f807ed83dd8ec92f2924858fb3455"
+"@angular/platform-server@~2.0.0":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@angular/platform-server/-/platform-server-2.0.2.tgz#164e94557432c04b1b0917d38b246d8aa1836134"
   dependencies:
     parse5 "^2.2.1"
 
